@@ -18,7 +18,7 @@ export function Header() {
           </a>
         </li>
         <li className="nav__items">
-          <a className="nav__items-link" href="#">
+          <a className="nav__items-link" href="#cardapio">
             Cardapio
           </a>
         </li>

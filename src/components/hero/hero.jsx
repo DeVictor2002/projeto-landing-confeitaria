@@ -14,7 +14,7 @@ export function Hero() {
           momentos especiais em memórias inesquecíveis, oferecendo bolos, doces e
           sobremesas artesanais que encantam o paladar e o coração.
         </p>
-        <a className="hero__btn-cta" href="#">
+        <a className="hero__btn-cta" href="https://wa.me/11952996182?text=Olá%20Chef%20Julya,%20gostaria%20de%20fazer%20uma%20encomenda." target='_blank'>
           Faça sua encomenda
         </a>
       </section>
